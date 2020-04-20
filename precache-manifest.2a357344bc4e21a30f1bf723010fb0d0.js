@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a005a6edb1a1503a8e969741f465567",
+    "revision": "39ad93af56fb8e9952cd29f2b1f12853",
     "url": "/numbers-to-facts/index.html"
   },
   {
-    "revision": "59bef4aeaac3f4e52c63",
+    "revision": "5e2750ecd546c5b48073",
     "url": "/numbers-to-facts/static/css/main.c4de321d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/numbers-to-facts/static/js/2.900c388b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59bef4aeaac3f4e52c63",
-    "url": "/numbers-to-facts/static/js/main.40ceb193.chunk.js"
+    "revision": "5e2750ecd546c5b48073",
+    "url": "/numbers-to-facts/static/js/main.681a07ed.chunk.js"
   },
   {
     "revision": "472bac237b4083615d8e",
